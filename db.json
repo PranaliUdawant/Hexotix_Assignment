@@ -1,0 +1,27 @@
+{
+  "registeruser": [
+    {
+      "fname": "John",
+      "lname": "Ceena",
+      "email": "john@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "fname": "John",
+      "lname": "Ceena",
+      "email": "john@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "recipes": [
+    {
+      "name": "VEG PIZZA",
+      "desc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.",
+      "img": "https://images.unsplash.com/photo-1613564834361-9436948817d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "ingredients": "",
+      "id": 1
+    }
+  ]
+}
